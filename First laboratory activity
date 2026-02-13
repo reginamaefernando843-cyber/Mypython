@@ -1,0 +1,27 @@
+
+# Declare and initialize Variables
+
+name = "Regina Mae Fernando"
+student_id = "2024-0555-T"
+course_year_section = "BSCS2A"
+age = '20'
+sex = "Female"
+birthday = "February 15 2006"
+address = "Cubay North Bugasong Antique"
+zip_code = "5704"
+email_address = "reginamaefernando843@gmail.com"
+favorite_color = "Yellow "
+
+# Print the details
+print("Personal Details")
+print("---------------------------")
+print("Name:", name)
+print("Student ID No.:", student_id)
+print("Course/Year/Section:", course_year)
+print("Age:", age)
+print("Sex:", sex)
+print("Birthday:", birthday)
+print("Address:", address)
+print("Zip Code:", zip_code)
+print("Email:", email)
+print("Favorite Color:", favorite_color)
